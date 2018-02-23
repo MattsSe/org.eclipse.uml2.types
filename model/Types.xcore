@@ -1,4 +1,6 @@
 @Ecore(nsURI="http://www.eclipse.org/uml2/5.0.0/Types")
+@GenModel(bundleManifest="false", forceOverwrite="true", modelDirectory="org.eclipse.uml2.types/src/main/src-gen",
+	complianceLevel="8.0", updateClasspath="false")
 @UML(originalName="Types")
 package org.eclipse.uml2.types
 
