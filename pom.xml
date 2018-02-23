@@ -104,7 +104,7 @@
 						</language>
 					</languages>
 					<sourceRoots>
-						<root>${basedir}/src/main/resources</root>
+						<root>${basedir}/model</root>
 					</sourceRoots>
 				</configuration>
 				<dependencies>
