@@ -8,4 +8,4 @@ The xtext-maven-plugin generates all sources necessary.
 git clone https://github.com/MattsSe/org.eclipse.uml2.types
 cd org.eclipse.uml2.types
 mvn clean install
-`` 
+``` 
