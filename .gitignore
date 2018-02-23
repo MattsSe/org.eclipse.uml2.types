@@ -1,0 +1,8 @@
+target
+src-gen
+test-gen
+bin
+.settings
+.classpath
+.project
+*.DS_Store
